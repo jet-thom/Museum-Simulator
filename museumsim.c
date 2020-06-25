@@ -1,4 +1,4 @@
-//Jesse Thomas [jet113]
+//Jesse Thomas
 //Project 2 - Dr. Stephen Lee
 
 #include "sem.h"
